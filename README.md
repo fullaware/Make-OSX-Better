@@ -1,5 +1,6 @@
-Make-OSX-Better
-===============
+Make OSX Better 
+===============  
+(for technical folks who use a lot of commandline tools)
 
 Tools that should be installed to make life on OSX more productive and even more intuitive. 
 
