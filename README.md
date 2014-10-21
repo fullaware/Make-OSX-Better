@@ -5,7 +5,7 @@ Make OSX Better
 Tools that should be installed to make life on OSX more productive and even more intuitive. 
 
 
-OSX Terminal sucks (feature wise), I'm used to terminator for Linux - You can easily do split screen (right click 'Split pane Vertically' or 'Horizontally') with iTerm2, an send commands to all panes at the same time (right click 'Toggle broadcast input'):  
+OSX Terminal sucks (feature wise), I'm used to [terminator](https://launchpad.net/terminator) for Linux - You can easily do split screen (right click 'Split pane Vertically' or 'Horizontally') with iTerm2, an send commands to all panes at the same time (right click 'Toggle broadcast input'):  
 http://iterm2.com/  
 
 Tons of familiar GNU tools missing from OSX, install homebrew then install packages like 'coreutils', wget, vim (GNU vim).  
