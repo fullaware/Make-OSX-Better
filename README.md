@@ -32,3 +32,7 @@ http://vimeo.com/74334221
 ##Click on date/time and see the calendar
 Novel idea right?  Apple doesn't seem to think so (Even on Yosemite).  
 http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
+
+##For the Windows converts
+Miss right clicking to copy/paste?  Miss sorting files and having directories on top?  This tool replaces the default Finder.  
+http://www.trankynam.com/xtrafinder/
