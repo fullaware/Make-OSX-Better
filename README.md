@@ -30,7 +30,3 @@ http://vimeo.com/74334221
 ##Click on date/time and see the calendar
 Novel idea right?  Apple doesn't seem to think so (Even on Yosemite).  
 http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
-
-##Add Tabs and copy/paste to Mac Finder  
-Show folders on top, copy & paste and tabs.  
-http://www.trankynam.com/xtrafinder/
