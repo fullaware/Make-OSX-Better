@@ -12,6 +12,8 @@ http://iterm2.com/
 Tons of familiar GNU tools missing from OSX, install homebrew then install packages like 'coreutils', wget, vim (GNU vim).  
 http://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/  
 
+[The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - Like ack, and much much faster.
+
 ##Text Editor
 Syntax highlighting, tabs, the works.  And comes with a number of color schemes that can make staring at code much easier on the eyes.  
 http://www.sublimetext.com/3
