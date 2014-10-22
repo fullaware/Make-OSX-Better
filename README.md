@@ -2,13 +2,13 @@ Make OSX Better
 ===============  
 (for technical folks who use a lot of commandline tools)
 
-Tools that should be installed to make life on OSX more productive and even more intuitive. 
+Tools that should be installed to make life on OSX more productive and even more intuitive if you are coming from Windows or Linux. 
 
 ##Terminal  
 OSX Terminal sucks (feature wise), I'm used to [terminator](https://launchpad.net/terminator) for Linux - You can easily do split screen (right click 'Split pane Vertically' or 'Horizontally') with iTerm2, an send commands to all panes at the same time (right click 'Toggle broadcast input'):  
 http://iterm2.com/  
 
-##Linux/Unix tools
+##Linux/Unix commandline tools
 Tons of familiar GNU tools missing from OSX, install homebrew then install packages like 'coreutils', wget, vim (GNU vim).  
 http://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/  
 
@@ -19,7 +19,7 @@ Syntax highlighting, tabs, the works.  And comes with a number of color schemes 
 http://www.sublimetext.com/3
 
 ##Screen keep awake  
-Caffeine keeps your computer from going to sleep while you are simply watching a video or training or doing a presentation.  
+QUICK!  Change your power settings to never turn on screensaver before starting your presentation.  OR you could click on the little coffee cup in your taskbar.  Caffeine keeps your computer from going to sleep while you are simply watching a video or training or doing a presentation.  
 http://lightheadsw.com/caffeine/  
 
 ##Window Snapping
