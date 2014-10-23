@@ -36,3 +36,11 @@ http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
 ##For the Windows converts
 Miss right clicking to copy/paste?  Miss sorting files and having directories on top?  This tool replaces the default Finder.  
 http://www.trankynam.com/xtrafinder/
+
+## Interacting with HTTP APIs
+
+Curl is pretty arcane for advanced use (posting forms, etc). HTTPie is simpler, and pretty prints its output. It's written in python.
+
+http://httpie.org/
+
+
