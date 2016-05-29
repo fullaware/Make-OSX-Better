@@ -16,9 +16,8 @@ http://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-
 
 ##Text Editor
 Syntax highlighting, tabs, the works.  And comes with a number of color schemes that can make staring at code much easier on the eyes.  
-http://www.sublimetext.com/3
-
-I'm gonna throw in a plug for [Atom](http://atom.io) from Github.
+[Atom](http://atom.io) from Github.
+or the commercial standard http://www.sublimetext.com/3
 
 ##Screen keep awake  
 QUICK!  Change your power settings to never turn on screensaver before starting your presentation.  OR you could click on the little coffee cup in your taskbar.  Caffeine keeps your computer from going to sleep while you are simply watching a video or training or doing a presentation.  
@@ -26,7 +25,7 @@ http://lightheadsw.com/caffeine/
 
 ##Window Snapping
 Window snapping should be in every GUI by default, but OSX requires a tool.  Don't configure anything, just install it and have it startup by default:  
-http://bettertouchtool.net/  
+http://itunes.apple.com/de/app/bettersnaptool/id417375580?mt=12  
 
 Spectacle is another great one: http://spectacleapp.com/
 
@@ -34,13 +33,13 @@ What to I mean by "Window snapping"?  It's not screenshots, see here:
 http://vimeo.com/74334221
 
 ##Click on date/time and see the calendar
-Novel idea right?  Apple doesn't seem to think so (Even on Yosemite).  
+Novel idea right?  Apple doesn't seem to think so (Even on El Capitan).  
 http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
 
 Day-O isn't maintained anymore, Itsycal is also more feature rich: http://www.mowglii.com/itsycal/
 
 ##For the Windows converts
-Miss right clicking to copy/paste?  Miss sorting files and having directories on top?  This tool replaces the default Finder.  
+Miss right clicking to copy/paste?  Miss sorting files and having directories on top?  This tool replaces the default Finder (Doesn't work on El Capitan).  
 http://www.trankynam.com/xtrafinder/
 
 ## Interacting with HTTP APIs
